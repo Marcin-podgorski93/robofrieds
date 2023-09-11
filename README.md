@@ -1,9 +1,6 @@
 # robofriends
-Tutorial for React
-To run the project:
+React App:
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+a website that shows a list of robots from a .json file
+and you can search for their names using searchbox.
 
-*visist https://zerotomastery.io/ for more*
